@@ -22,10 +22,10 @@ My main stack is Microsoft-based, focusing on .NET, MVC, SQL, Azure, and Fronten
 
 I also volunteer as a teacher and mentor for people who are starting or transitioning their careers to IT.
 
-💻 Technical Skills:
-• Advanced knowledge in C#, .NET Core and Full Framework, Entity, Dapper, MVC, Razor, Bootstrap, GIT, WebAPI, NodeJS, and Azure.
-• Solid proficiency in ASP, SQL Server, HTML, CSS, JavaScript, jQuery, and Ajax.
-• Basic knowledge of Angular, Angular Material, CSS preprocessors, messaging, Docker, and DevSecOps.
+💻 Technical Skills:  
+• Advanced knowledge in C#, .NET Core and Full Framework, Entity, Dapper, MVC, Razor, Bootstrap, GIT, WebAPI, NodeJS, and Azure.  
+• Solid proficiency in ASP, SQL Server, HTML, CSS, JavaScript, jQuery, and Ajax.  
+• Basic knowledge of Angular, Angular Material, CSS preprocessors, messaging, Docker, and DevSecOps.  
 • Agile development methodologies: Scrum and Kanban.
 
 💬 Let's Connect:
