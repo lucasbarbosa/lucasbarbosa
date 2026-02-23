@@ -1,34 +1,99 @@
+<div align="center">
+  <img src="https://github.com/lucasbarbosa/lucasbarbosa/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</div>
+
+---
+
 ### Hi there 👋
 
-<!--
-**lucasbarbosa/lucasbarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently working on a healthcare platform serving thousands of users - .NET Core, Clean Architecture & Azure.
+<br />🌱 Currently learning Kubernetes/AKS and AI-driven development with Spec Driven Development.
+<br />💬 Ask me about .NET architecture, Clean Code, scalable APIs, SSO implementation, DevSecOps, or how I reduced screen load times by 70%+ 🚀
+<br />⚡ Fun fact: When I'm not coding, I'm probably debugging thoughts on a bike or a running trail.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛡️ Core Stack
 
-🌐 About me:
-I am a software developer with 17+ years of experience, serving national and multinational companies in areas such as: construction, tax and accounting, financial services, medical auditing, etc. I highlight in my skills the constant search for improvement in processes, focusing on enhancing the performance and quality of applications.
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-My main stack is Microsoft-based, focusing on .NET, MVC, SQL, Azure, and Frontend (HTML, Javascript, CSS, Bootstrap, Angular). In recent years, I have been studying Software Architecture and Testing, bringing more quality to projects.
+---
 
-I also volunteer as a teacher and mentor for people who are starting or transitioning their careers to IT.
+## 🌐 About me
 
-💻 Technical Skills:  
-• Advanced knowledge in C#, .NET Core and Full Framework, Entity, Dapper, MVC, Razor, Bootstrap, GIT, WebAPI, NodeJS, and Azure.  
-• Solid proficiency in ASP, SQL Server, HTML, CSS, JavaScript, jQuery, and Ajax.  
-• Basic knowledge of Angular, Angular Material, CSS preprocessors, messaging, Docker, and DevSecOps.  
-• Agile development methodologies: Scrum and Kanban.
+I'm a Senior Software Engineer with 20+ years of experience delivering web solutions for companies across Brazil and global markets, spanning FinTech, HealthTech, HR Tech, Tax & Accounting, and Construction industries.
 
-💬 Let's Connect:
+My core expertise lies in the .NET ecosystem (C#, .NET Core, ASP.NET MVC, Web API), Azure cloud services, and SQL Server - building scalable, secure, and high-quality web applications - with experience in distributed systems, high-availability architecture, automated testing, and DevSecOps.
+
+I'm skilled at translating business requirements into viable solutions and documenting processes and features clearly, ensuring knowledge is accessible across the team. I'm also passionate about sharing knowledge and mentoring colleagues, helping teams grow and stay aligned. Beyond engineering, I volunteer as a technical mentor and instructor, helping professionals transition into or grow within the IT field.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasbarbosa&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbarbosa&layout=compact&theme=dark&hide_border=true)
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=lucasbarbosa&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=lucasbarbosa&theme=darkhub&row=1&no-frame=true)
+
+</div>
+
+---
+
+## 💻 Stack & Tools
+
+**Backend:** C# · .NET Core · Web API · ASP.NET MVC · Entity Framework · Dapper
+
+**Cloud & DevOps:** Azure · Azure DevOps · Docker · CI/CD · ELK Stack · DataDog · Serilog
+
+**Frontend:** Angular · JavaScript · TypeScript · Bootstrap · HTML5 · CSS3
+
+**Database:** SQL Server · Redis · MongoDB · PostgreSQL
+
+**Architecture:** Clean Architecture · DDD · SOLID · Microservices · REST APIs
+
+**Testing:** xUnit · Moq · Selenium · FluentAssertions · Bogus
+
+**Methodologies:** Agile · Scrum · Kanban · DevSecOps
+
+---
+
+## 🤖 AI-Assisted Development
+
+GitHub Copilot · Claude Code · Gemini · Spec Driven Development
+
+---
+
+## 💬 Let's Connect
+
 Open to networking, discussions on technology, innovation, and collaboration opportunities.
 
-Email: contato@lucasbarbosa.com.br
+📧 [contato@lucasbarbosa.com.br](mailto:contato@lucasbarbosa.com.br)
+<br />🔗 [linkedin.com/in/lucasbarbosa](https://linkedin.com/in/lucasbarbosa)
+
+<div align="center">
+  <img src="me.jpeg" width="400" alt="Lucas Barbosa - Senior Software Engineer"/>
+</div>
