@@ -1,13 +1,13 @@
-<div align="center">
-  <img src="me.jpeg" width="400" alt="Lucas Barbosa - Senior Software Engineer"/>
-</div>
-
 ### Hi there 👋
 
 🔭 Currently working on healthcare systems serving thousands of users.
 <br />🌱 Currently learning AI-driven development with Spec Driven Development.
 <br />💬 Ask me about .NET architecture, Clean Code, scalable APIs, SSO implementation, DevSecOps, or how I reduced screen load times by 70%+ 🚀
 <br />⚡ Fun fact: When I'm not coding, I'm probably debugging thoughts on a bike or a running trail.
+
+<div align="center">
+  <img src="me.jpeg" width="400" alt="Lucas Barbosa - Senior Software Engineer"/>
+</div>
 
 ---
 
