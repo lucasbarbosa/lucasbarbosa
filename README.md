@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://github.com/lucasbarbosa/lucasbarbosa/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
-
----
-
 ### Hi there 👋
 
 🔭 Currently working on a healthcare platform serving thousands of users - .NET Core, Clean Architecture & Azure.
@@ -40,24 +34,7 @@ I'm skilled at translating business requirements into viable solutions and docum
 
 <div align="center">
 
-![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasbarbosa&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbarbosa&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
-<div align="center">
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=lucasbarbosa&theme=dark&hide_border=true)
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=lucasbarbosa&theme=darkhub&row=1&no-frame=true)
 
 </div>
 
