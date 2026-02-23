@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="me.jpeg" width="400" alt="Lucas Barbosa - Senior Software Engineer"/>
+</div>
+
 ### Hi there 👋
 
 🔭 Currently working on healthcare systems serving thousands of users.
@@ -70,7 +74,3 @@ Open to networking, discussions on technology, innovation, and collaboration opp
 
 📧 [contato@lucasbarbosa.com.br](mailto:contato@lucasbarbosa.com.br)
 <br />🔗 [linkedin.com/in/lucasbarbosa](https://linkedin.com/in/lucasbarbosa)
-
-<div align="center">
-  <img src="me.jpeg" width="400" alt="Lucas Barbosa - Senior Software Engineer"/>
-</div>
