@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔭 Currently working on a healthcare platform serving thousands of users - .NET Core, Clean Architecture & Azure.
-<br />🌱 Currently learning Kubernetes/AKS and AI-driven development with Spec Driven Development.
+🔭 Currently working on healthcare systems serving thousands of users.
+<br />🌱 Currently learning AI-driven development with Spec Driven Development.
 <br />💬 Ask me about .NET architecture, Clean Code, scalable APIs, SSO implementation, DevSecOps, or how I reduced screen load times by 70%+ 🚀
 <br />⚡ Fun fact: When I'm not coding, I'm probably debugging thoughts on a bike or a running trail.
 
@@ -42,7 +42,7 @@ I'm skilled at translating business requirements into viable solutions and docum
 
 ## 💻 Stack & Tools
 
-**Backend:** C# · .NET Core · Web API · ASP.NET MVC · Entity Framework · Dapper
+**Backend:** C# · .NET · Web API · ASP.NET MVC · Entity Framework · Dapper
 
 **Cloud & DevOps:** Azure · Azure DevOps · Docker · CI/CD · ELK Stack · DataDog · Serilog
 
